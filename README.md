@@ -25,7 +25,3 @@ Welcome! This page lists my professional IT certifications. Each certificate is 
 [![Software and Operating Systems](https://img.shields.io/badge/IBM-Software_and_Operating_Systems-blue)](https://www.credly.com/badges/f3e8e259-1371-4cd1-8ff9-98da3eed70ca/public_url)
 
 ---
-
-## 🔗 How to Use This Portfolio
-- Click on any badge to verify the certification.
-- Share this link in your CV or LinkedIn to showcase verified IT skills.
