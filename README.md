@@ -1,6 +1,17 @@
-# Abdelrahman Ali - IT Certifications Portfolio
+# Abdelrahman Ahmed – IT Support & Cloud Enthusiast
 
-Welcome! This page lists my professional IT certifications. Each certificate is verifiable via its public link.
+Hi! I’m Abdelrahman, an aspiring IT Support and Cloud professional with hands-on knowledge in networking, hardware troubleshooting, IT security, and cloud technologies.  
+I aim to leverage my skills to deliver efficient technical solutions and support.
+
+---
+
+## 🛠 Skills
+- IT Support & Troubleshooting  
+- Network Configuration & Protocols  
+- Hardware Components & Maintenance  
+- Cloud Computing & Virtualization (AWS fundamentals)  
+- IT Security & Compliance  
+- Operating Systems & Software Management  
 
 ---
 
@@ -23,5 +34,11 @@ Welcome! This page lists my professional IT certifications. Each certificate is 
 
 ### Software and Operating Systems
 [![Software and Operating Systems](https://img.shields.io/badge/IBM-Software_and_Operating_Systems-blue)](https://www.credly.com/badges/f3e8e259-1371-4cd1-8ff9-98da3eed70ca/public_url)
+
+---
+
+## 🔗 Contact & Professional Links
+- LinkedIn: www.linkedin.com/in/it-abdelrahman-alib  
+- Email: abdelrhamanali404@gmail.com
 
 ---
