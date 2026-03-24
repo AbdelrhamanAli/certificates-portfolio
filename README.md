@@ -1,4 +1,3 @@
-# certificates-portfolio
 # Abdelrahman Ahmed - IT Certifications Portfolio
 
 Welcome! This page lists my professional IT certifications. Each certificate is verifiable via its public link.
